@@ -111,10 +111,4 @@ Building projects, solving problems, and learning something new every day.
 </p>
 ---
 
-# 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/KhushiKoranga/KhushiKoranga/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
 
