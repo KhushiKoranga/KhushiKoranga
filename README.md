@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Koranga</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;DSA+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;DSA+Enthusiast;Machine+Learning+Explorer;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 <p align="center">
 Building projects, solving problems, and learning something new every day.
@@ -63,24 +63,6 @@ Building projects, solving problems, and learning something new every day.
 </p>
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhushiKoranga&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|----------|-------------|
-| 🧘 Yoga Posture Detector | AI-powered posture detection using Python, OpenCV & MediaPipe |
-| 📚 DSA Repository | My complete DSA journey with clean C++ solutions |
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
-| 🤖 Machine Learning Projects | ML projects built while learning AI & Data Science |
-
-</div>
----
 
 # 🌐 Connect With Me
 
